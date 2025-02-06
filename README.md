@@ -1,24 +1,13 @@
-Hi! I'm Tushar Jain, a passionate Full-Stack Developer with experience in building scalable and dynamic web applications. I specialize in React, Node.js, JavaScript, SQL, and MongoDB, crafting seamless user experiences with clean and efficient code.
+## Tushar Jain @tjain8690  
+🚀 Full Stack Developer | JavaScript | Cloud & Web Enthusiast | Tech Explorer  
 
-💡 Tech Stack:
+[LinkedIn]([your-link](https://www.linkedin.com/in/tushar-jain-0630671b9/)) • [Portfolio](your-portfolio-link) • [Twitter]([your-twitter-link](https://x.com/tj5919281?t=DW6xmKFWi-cJzBPSZiQPSg&s=08 ))  
 
-Frontend: React.js, Next.js, Redux, TypeScript, TailwindCSS
-Backend: Node.js, Express.js, RESTful APIs
-Database: MongoDB, MySQL, PostgreSQL
-Other: Git, AWS (Basics), Linux
-
-👨‍💻 Experience & Projects:
-
-Built multiple web applications during internships at Pratech Global Pvt. Ltd., Enterprise Minds Inc., and a startup
-Developed an AI-powered 3D T-shirt customizer, a modern UI admin dashboard, and a responsive portfolio
-Published a Scopus-indexed research paper on AI-based Vision Systems
-📌 What I’m working on:
-
-A Tech Event Management Website
-Exploring SRE & Cloud Technologies
-
-📫 Let's Connect!
-LinkedIn | Portfolio | Email
+🌱 **I’m currently learning**:, AWS, Cloud Computing, System Design  
+💬 **Ask me about**: Web Development, JavaScript, React, Node.js, Databases  
+📫 **How to reach me**: [Twitter]([your-twitter-link](https://x.com/tj5919281?t=DW6xmKFWi-cJzBPSZiQPSg&s=08 )) • [LinkedIn]([your-link](https://www.linkedin.com/in/tushar-jain-0630671b9/)  
+😄 **Pronouns**: He/Him  
+⚡ **Fun fact**: I can debug JavaScript issues faster than my coffee gets cold ☕😎  
 
 
 
