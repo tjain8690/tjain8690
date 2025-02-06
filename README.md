@@ -1,8 +1,6 @@
 ## Tushar Jain @tjain8690  
 🚀 Full Stack Developer | JavaScript | Cloud & Web Enthusiast | Tech Explorer  
 
-[LinkedIn]((https://www.linkedin.com/in/tushar-jain-0630671b9/)) • [Portfolio](your-portfolio-link) • [Twitter]([[your-twitter-link](https://x.com/tj5919281?t=DW6xmKFWi-cJzBPSZiQPSg&s=08 )))](https://x.com/tj5919281?t=DW6xmKFWi-cJzBPSZiQPSg&s=08 ))  
-
 🌱 **I’m currently learning**:, AWS, Cloud Computing, System Design  
 💬 **Ask me about**: Web Development, JavaScript, React, Node.js, Databases  
 📫 **How to reach me**: [Twitter]([your-twitter-link](https://x.com/tj5919281?t=DW6xmKFWi-cJzBPSZiQPSg&s=08 )) • [LinkedIn]([your-link](https://www.linkedin.com/in/tushar-jain-0630671b9/)  
