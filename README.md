@@ -8,6 +8,7 @@ Frontend: React.js, Next.js, Redux, TypeScript, TailwindCSS
 Backend: Node.js, Express.js, RESTful APIs
 Database: MongoDB, MySQL, PostgreSQL
 Other: Git, Docker, AWS (Basics), Linux
+
 👨‍💻 Experience & Projects:
 
 Built multiple web applications during internships at Pratech Global Pvt. Ltd., Enterprise Minds Inc., and a startup
@@ -17,6 +18,7 @@ Published a Scopus-indexed research paper on AI-based Vision Systems
 
 A Tech Event Management Website
 Exploring SRE & Cloud Technologies
+
 📫 Let's Connect!
 LinkedIn | Portfolio | Email
 
